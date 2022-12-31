@@ -32,6 +32,6 @@ description: 不太会玩服务器？指令不清楚？腐竹将在这里解答�
 [sheng-cun](you-xi/sheng-cun/)
 {% endcontent-ref %}
 
-{% content-ref url="jiao-liu/" %}
-[jiao-liu](jiao-liu/)
+{% content-ref url="you-xi/jiao-liu/" %}
+[jiao-liu](you-xi/jiao-liu/)
 {% endcontent-ref %}

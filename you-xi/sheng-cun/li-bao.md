@@ -12,4 +12,4 @@ description: 不知道在哪里领礼包？一个指令解决此问题！
 
 <mark style="color:red;">！值得注意的是，</mark>_<mark style="color:red;">**礼包名称**</mark>_<mark style="color:red;">指的是</mark>_<mark style="color:red;">**open**</mark>_<mark style="color:red;">后的那三个</mark>_<mark style="color:red;">**补全选项**</mark>_<mark style="color:red;">，你可以从</mark>_<mark style="color:red;">**第一个**</mark>_<mark style="color:red;">与</mark>_<mark style="color:red;">**第二个**</mark>_<mark style="color:red;">进行选择，我更推荐</mark>_<mark style="color:red;">**第二个**</mark>_<mark style="color:red;">！</mark>
 
-腐竹同样把此功能加入到了主菜单，用 _**`/hm`**_ 打开主菜单
+腐竹同样把此功能加入到了主菜单，用 _<mark style="color:green;">**`/hm`**</mark>_ 打开主菜单
