@@ -8,4 +8,6 @@ description: 玩家可以通过使用此指令快速来到一个没有人且安�
 
 #### 指令列表[#](https://doc.ultitools.ultikits.com/function/sui-ji-chuan-song.html#%E6%8C%87%E4%BB%A4%E5%88%97%E8%A1%A8) <a href="#zhi-ling-lie-biao" id="zhi-ling-lie-biao"></a>
 
-_<mark style="color:green;">**`/nrtp`**</mark>_
+_<mark style="color:green;">**`/wild`**</mark>_ 在本世界进行随机传送
+
+_<mark style="color:green;">**`/nrtp`**</mark><mark style="color:green;">** **</mark><mark style="color:green;">****</mark>_** **<mark style="color:yellow;">**同样的功能，建议用nrtp**</mark>

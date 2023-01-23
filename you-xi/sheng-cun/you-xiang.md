@@ -10,10 +10,10 @@ description: 邮件系统可以实现发送文本、发送手持物品、发送�
 
 ### 使用教程[#](https://doc.ultitools.ultikits.com/function/you-xiang.html#%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B) <a href="#shi-yong-jiao-cheng" id="shi-yong-jiao-cheng"></a>
 
-使用指令/mail即可显示如下邮箱指令大全
+使用指令/email即可显示如下邮箱指令大全
 
 ![](https://doc.ultitools.ultikits.com/assets/%E9%82%AE%E4%BB%B6%E6%8C%87%E4%BB%A4%E5%A4%A7%E5%85%A8.png)
 
 ### 注意[#](https://doc.ultitools.ultikits.com/function/you-xiang.html#%E6%B3%A8%E6%84%8F) <a href="#zhu-yi" id="zhu-yi"></a>
 
-/mail sendall \[文本内容] 为管理员指令
+/email sendall \[文本内容] 为管理员指令
