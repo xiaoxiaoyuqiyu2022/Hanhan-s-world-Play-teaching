@@ -4,7 +4,7 @@ description: 担心忘记家在哪？想要快点到家？人在外面想赶上�
 
 # 🏠 家
 
-_<mark style="color:green;">**`/homelist`**</mark>_ 打开家列表
+_<mark style="color:green;">**`/homes`**</mark>_ 打开家列表
 
 _<mark style="color:green;">**`/sethome [家名 ]`**</mark>_ 设置名为\[家名]的家
 

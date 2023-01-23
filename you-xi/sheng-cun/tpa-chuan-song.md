@@ -14,6 +14,6 @@ _<mark style="color:green;">**`/tpahere`**</mark>_ \[玩家名] 请求他人传�
 
 #### 接受/拒绝[#](https://doc.ultitools.ultikits.com/function/tpa.html#%E6%8E%A5%E5%8F%97-%E6%8B%92%E7%BB%9D) <a href="#jie-shou-ju-jue" id="jie-shou-ju-jue"></a>
 
-输入<mark style="color:green;">**`/tpa accept`**</mark> 接受传送，或者按下shift+左键接受
+输入<mark style="color:green;">**`/tpaccept`**</mark> 接受传送，或者使用 _<mark style="color:green;">**`/tpyes`**</mark>_
 
-输入_<mark style="color:green;">**`/tpa reject`**</mark>_ 拒绝传送，或者按下shift+右键拒绝，或者等待20秒自动拒绝
+输入_<mark style="color:green;">**`/tpacancel`**</mark>_ 拒绝传送，或者使用 _<mark style="color:green;">**`/tpno`**</mark>_拒绝，或者不管就好
